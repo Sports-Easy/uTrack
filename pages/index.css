@@ -1,0 +1,24 @@
+@import '~antd/dist/antd.css';
+.app {
+  margin: 0;
+}
+.filterHolder {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.regionHolder {
+  height: 100px;
+}
+.minimumSpendHolder {
+  display: flex;
+  flex-direction: row;
+}
+.minimumSpendHolder .minimumSpendSlider {
+  width: 100%;
+}
+.minimumSpendHolder .minimumSpendDisplay {
+  width: 150px;
+}
+/*# sourceMappingURL=index.css.map */

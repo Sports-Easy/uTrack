@@ -24,7 +24,7 @@ const Nav = () => (
       ))}
     </ul>
 
-    <style jsx>{`
+    <style>{`
       :global(body) {
         margin: 0;
         font-family: -apple-system, BlinkMacSystemFont, Avenir Next, Avenir,
