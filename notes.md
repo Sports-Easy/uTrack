@@ -1,8 +1,3 @@
-The main point to the challenge is to see what sorting algorithms I will use on the different data operations (I hope 
-that kinda explains it). Picking the right algorithm can go a long way in a business ecspecially if they are using 
-services such as: Amazon Web Services or Google Cloud Platform. Operations that take up cpu time can be expensive to 
-use.
-
 ## Answering Technical Questions
 
 ### Please explain what is wrong with this code and what the observed behaviour might be in a component that included it. this.setState({count: this.state.count+1})
