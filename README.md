@@ -5,7 +5,7 @@ React Technical Challenge
 git clone https://github.com/Sports-Easy/uTrack.git
 cd uTrack
 npm install
-npm start
+npm run dev
 
 ```
 
